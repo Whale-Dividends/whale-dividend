@@ -180,6 +180,7 @@ margin: 0px auto;
     margin-left: 150px;
     margin-top: -10px;
     margin: 0px auto;
+    
 }
 .well1{
     margin-left: -17px;
@@ -261,4 +262,8 @@ opacity: 1;
     margin-top: 20px;
 
 
+}
+.allcontainer{
+    margin: 0px auto;
+   
 }
